@@ -27,6 +27,6 @@
 
 ## ¿Quien es este fulano?
 Hola, mi nombre es <b>Fabian Arevalo</b> y me hace ilusion que me conozcan como <b>Fa_Dev</b> 🤷‍♂️ no hay un por que solo me hace ilusion 🤷‍♂️<br>
-Nacido en Bogotá, Colombia y tengo 27 años y aparte de ser fan de la saga de Dark Souls tambien soy estudiante de desarrollo web y aplicaciones moviles <sub>Si ya se que tengo 27 y no he terminado la carrera pero ahi vamos no me chinges</sub><br>
+Nacido en Bogotá, Colombia y tengo 27 años y aparte de ser fan de la saga de Dark Souls tambien soy estudiante de desarrollo web y aplicaciones moviles <sub>Si ya se que tengo 27 y no he terminado la carrera pero ahi vamos no me chinges</sub><br><br>
 Actualmente soy desarrollador junior 💻 en Digital 01, una empresa colombiana donde trabajamos para hacer las cosas bien y no solo que funcionen <sup>En resumen que trabajamos bien y no a medias</sup>
 
